@@ -42,6 +42,8 @@ PLAN.md       # Architecture and roadmap
 
 Track BPM lookup in the desktop app uses the [GetSongBPM](https://getsongbpm.com) API ([API documentation](https://getsongbpm.com/api)).
 
+Project page (backlink for API registration): [mathiio.github.io/roombeat-hue](https://mathiio.github.io/roombeat-hue/) — enable **GitHub Pages** → source **main** → folder **/docs**.
+
 ## License
 
 License TBD.
