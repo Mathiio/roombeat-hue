@@ -1,5 +1,7 @@
 # roombeat-hue
 
+BPM catalogue: [GetSongBPM.com](https://getsongbpm.com) · https://getsongbpm.com
+
 Music-reactive Philips Hue lighting with spatial effects and a 3D room editor. Unofficial open-source desktop app (macOS first) built with **Rust** and **Tauri**.
 
 Sync lights to system audio in real time via the Hue **Entertainment API** (DTLS streaming). Plan rooms in 2D/3D, place bulbs in space, and drive layered, position-aware effects from local audio analysis (FFT, beats, BPM).
