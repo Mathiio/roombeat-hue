@@ -1,0 +1,15 @@
+[package]
+name = "huesync-cli"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+hue = { path = "../hue" }
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+tokio.workspace = true
+tracing.workspace = true
+clap = { version = "4", features = ["derive"] }
+dirs = "7"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
