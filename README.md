@@ -36,6 +36,10 @@ crates/cli/   # Phase 0 CLI and test effects
 PLAN.md       # Architecture and roadmap
 ```
 
+## Credits
+
+Track BPM lookup in the desktop app uses the [GetSongBPM](https://getsongbpm.com) API ([API documentation](https://getsongbpm.com/api)).
+
 ## License
 
 License TBD.
